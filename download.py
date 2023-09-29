@@ -4,6 +4,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 import urllib.parse
 
+
 class DownloadFile(object):
     def urlopen_with_retry(self, url):
         NTRIES = 3

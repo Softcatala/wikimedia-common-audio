@@ -67,11 +67,19 @@ class TextExtract:
 
             s = s.replace("{{Ràdio Godella}}", "")
             s = s.replace("{{Ràdio Godella-imatge}}", "")
-            s = s.replace("{{Sonoro Fermín Pardo}}", "")            
+            s = s.replace("{{Sonoro Fermín Pardo}}", "")
             s = s.replace("{{IVAM}}", "")
-            s = s.replace("[[:ca:Yasmina Drissi i Sales|Yasmina Drissi i Sales]]", "Yasmina Drissi i Sales")
-            
-            
+            s = s.replace(
+                "[[:ca:Yasmina Drissi i Sales|Yasmina Drissi i Sales]]",
+                "Yasmina Drissi i Sales",
+            )
+            s = s.replace(
+                "[[:File:03 Turning Points.ogg|Turning Points]]", "Turning Points]"
+            )
+            s = s.replace(
+                "[[:File:Samba de fato 1932.ogg|Samba de fato]]", "Samba de fato]"
+            )
+
             if len(s.strip()) == 0:
                 continue
 
@@ -168,7 +176,9 @@ def main():
     files = FindFiles().find_recursive("data/", "*")
     total = 0
     d = Definitions()
-    with open("audio-files.txt", "w") as f_audios, open("extract-debug.txt", "w") as f_debug:
+    with open("audio-files.txt", "w") as f_audios, open(
+        "extract-debug.txt", "w"
+    ) as f_debug:
         for file in files:
             if "commonswiki-latest-pages-meta-current6.xml-p80043930p81543929" in file:
                 continue
