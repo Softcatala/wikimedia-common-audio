@@ -104,8 +104,8 @@ Els poetes.ogg	Versió sonora interpretada per Òscar Rocabert.	cc-by-sa-4.0	54.
 15 Veig una noia.ogg	Versió sonora d'un poema de Joan Arús i Colomer.	cc-by-sa-4.0	30.0
 El meu poble-2.ogg	Versió sonora d'un poema de Joan Arús	cc-by-sa-4.0	248.00075
 Vicent Baydal - voice 01.ogg	Autopresentació de Vicent Baydal	CC-BY-SA 4.0	5.7991875
-Viquitrobada 2016 - jazz.ogg	Anunci de la Viquitrobada 2016. Música: [[:File:03 Turning Points.ogg|Turning Points]].	cc-by-sa 3.0	28.31675
-Viquitrobada 2016 - samba.ogg	Anunci de la Viquitrobada 2016. Música: [[:File:Samba de fato 1932.ogg|Samba de fato]].	cc-by-sa 3.0	27.089
+Viquitrobada 2016 - jazz.ogg	Anunci de la Viquitrobada 2016. Música: Turning Points].	cc-by-sa 3.0	28.31675
+Viquitrobada 2016 - samba.ogg	Anunci de la Viquitrobada 2016. Música: Samba de fato].	cc-by-sa 3.0	27.089
 Moltó i Sergio - Colp a Colp 32.ogg	Testimoni dels dos finalistes previ a la final del XXX Individual de Raspall	CC-BY-SA 4.0	224.55
 Entrevista Marrahí - Colp a Colp 32.ogg	El campió de l'Individual de Raspall 2014, Marrahí, analitza la final de 2016 per a Colp a Colp	CC-BY-SA 4.0	251.61
 Entrevista Marc de Montserrat - Colp a Colp 17.ogg	Entrevista a Marc de Montserrat analitzant el seu debut a la Copa Diputació de València	CC-BY-SA 4.0	185.433
