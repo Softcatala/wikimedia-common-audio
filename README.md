@@ -9,7 +9,7 @@ Characteristics of the dataset:
 
 We found this dataset to be useful in some of these audios tasks:
 * Language detection
-* Evaluation of SST systems
+* Evaluation of STT systems
 
 
 For information on how this list has been build: see [DEVELOPMENT](DEVELOPMENT.md)
