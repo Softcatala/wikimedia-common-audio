@@ -1,4 +1,4 @@
-This is a collection of audios in Catalan languages with free licenses extracted from Wikimedia Common.
+This is a collection of audios in Catalan language with free licenses extracted from Wikimedia Common.
 
 This provides a richer alternative to Common Voice.
 
@@ -521,8 +521,8 @@ File | Description | License | Length (seconds)
 |[VicentPartalMontesin...lMontesinos(veu).ogg](catalan/VicentPartalMontesinos(veu).ogg) | Mostra de veu del periodista Vicent Partal i Montesinos.| cc-zero | 7
 |[Victoria_Szpunberg_(..._Szpunberg_(veu).ogg](catalan/Victoria_Szpunberg_(veu).ogg) | Mostra de veu de Victoria Szpunberg Witt.| cc-zero | 13
 |[Viquillibre_Dones_en..._Margarita_Salas.mp3](catalan/Viquillibre_Dones_en_STEM_-_Margarita_Salas.mp3) | gravació d'audio del Viquillibre Dones en STEM Margarita Salas| cc-by-sa-4.0 | 118
-|[Viquitrobada_2016_-_...bada_2016_-_jazz.ogg](catalan/Viquitrobada_2016_-_jazz.ogg) | Anunci de la Viquitrobada 2016. Música: [[:File:03 Turning Points.ogg|Turning Points]].| cc-by-sa 3.0 | 28
-|[Viquitrobada_2016_-_...ada_2016_-_samba.ogg](catalan/Viquitrobada_2016_-_samba.ogg) | Anunci de la Viquitrobada 2016. Música: [[:File:Samba de fato 1932.ogg|Samba de fato]].| cc-by-sa 3.0 | 27
+|[Viquitrobada_2016_-_...bada_2016_-_jazz.ogg](catalan/Viquitrobada_2016_-_jazz.ogg) | Anunci de la Viquitrobada 2016. Música: Turning Points.| cc-by-sa 3.0 | 28
+|[Viquitrobada_2016_-_...ada_2016_-_samba.ogg](catalan/Viquitrobada_2016_-_samba.ogg) | Anunci de la Viquitrobada 2016. Música: Samba de fato.| cc-by-sa 3.0 | 27
 |[Vito_Corleone_-_Juli...eone_-_Juli_Mira.mp3](catalan/Vito_Corleone_-_Juli_Mira.mp3) | Representació de Vito Corleone realitzada per Juli Mira el 2020.| cc-by-sa-4.0 | 44
 |[Voice_-_Alfons_Pérez...e_-_Alfons_Pérez.mp3](catalan/Voice_-_Alfons_Pérez.mp3) | Voice Intro Project d'Alfons Pérez| cc-by-sa-4.0 | 12
 |[Voice_-_ca_-_Geni_To...ncesc_Fenollosa).ogg](catalan/Voice_-_ca_-_Geni_Tortuga_(Francesc_Fenollosa).ogg) | Mostra de veu de Francesc Fenollosa fent de Geni Tortuga, un dels personatges que ha doblat| CC-BY-SA 4.0 | 42

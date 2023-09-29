@@ -11,7 +11,7 @@ model_size = "medium"
 
 def main():
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
-    with open("audio-files-good.txt", "r") as f_audios, open(
+    with open("audio-files.txt", "r") as f_audios, open(
         "detect-debug.txt", "w"
     ) as f_detect, open("detect_ca.txt", "w") as f_detect_ca:
         lines = f_audios.readlines()

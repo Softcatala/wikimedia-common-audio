@@ -1,4 +1,4 @@
-This is a collection of audios in Catalan languages with free licenses extracted from Wikimedia Common.
+This is a collection of audios in Catalan language with free licenses extracted from Wikimedia Common.
 
 This provides a richer alternative to Common Voice.
 

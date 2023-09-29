@@ -4,6 +4,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 import urllib.parse
 
+
 class DownloadFile(object):
     def urlopen_with_retry(self, url):
         NTRIES = 3
@@ -63,7 +64,7 @@ import hashlib
 
 def main():
     d = DownloadFile()
-    with open("audio-files-good.txt", "r") as f_audios:
+    with open("audio-files.txt", "r") as f_audios:
         lines = f_audios.readlines()
         for line in lines:
             components = line.split("\t")

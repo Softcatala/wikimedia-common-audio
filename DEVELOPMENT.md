@@ -4,6 +4,7 @@
 # Download
 
 * wget --recursive -A "*pages-meta*" --no-parent https://dumps.wikimedia.org/commonswiki/latest/
+* uncompress bz2 files
 
 # Generate list of audios
 
