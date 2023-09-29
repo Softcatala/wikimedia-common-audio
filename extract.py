@@ -74,10 +74,10 @@ class TextExtract:
                 "Yasmina Drissi i Sales",
             )
             s = s.replace(
-                "[[:File:03 Turning Points.ogg|Turning Points]]", "Turning Points]"
+                "[[:File:03 Turning Points.ogg|Turning Points]]", "Turning Points"
             )
             s = s.replace(
-                "[[:File:Samba de fato 1932.ogg|Samba de fato]]", "Samba de fato]"
+                "[[:File:Samba de fato 1932.ogg|Samba de fato]]", "Samba de fato"
             )
 
             if len(s.strip()) == 0:
